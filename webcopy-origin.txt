@@ -1,0 +1,60 @@
+Uri: https://cyberfight.online/
+File Name: C:\Downloaded Web Sites\cyberfight.online\index.htm
+Content Type: text/html
+
+Uri: https://cyberfight.online/favicon.ico
+File Name: C:\Downloaded Web Sites\cyberfight.online\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap
+File Name: C:\Downloaded Web Sites\cyberfight.online\css.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\cyberfight.online\npm\@mdi\font@latest\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://cyberfight.online/_nuxt/icons/icon_64x64.5f6a36.png
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\icons\icon_64x64.5f6a36.png
+Content Type: image/png
+
+Uri: https://cyberfight.online/_nuxt/icons/icon_512x512.5f6a36.png
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\icons\icon_512x512.5f6a36.png
+Content Type: image/png
+
+Uri: https://cyberfight.online/_nuxt/manifest.a711e61c.json
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\manifest.a711e61c.json
+Content Type: application/json
+
+Uri: https://cyberfight.online/_nuxt/f4bfada.js
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\f4bfada.js
+Content Type: application/javascript
+
+Uri: https://cyberfight.online/_nuxt/f34f639.js
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\f34f639.js
+Content Type: application/javascript
+
+Uri: https://cyberfight.online/_nuxt/13a809e.js
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\13a809e.js
+Content Type: application/javascript
+
+Uri: https://cyberfight.online/_nuxt/706ef7f.js
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\706ef7f.js
+Content Type: application/javascript
+
+Uri: https://cyberfight.online/_nuxt/d421869.js
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\d421869.js
+Content Type: application/javascript
+
+Uri: https://cyberfight.online/_nuxt/a5e3704.js
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\a5e3704.js
+Content Type: application/javascript
+
+Uri: https://cyberfight.online/_nuxt/img/logo_head.7af5e14.png
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\img\logo_head.7af5e14.png
+Content Type: image/png
+
+Uri: https://cyberfight.online/_nuxt/img/logo_str.7a3b887.png
+File Name: C:\Downloaded Web Sites\cyberfight.online\_nuxt\img\logo_str.7a3b887.png
+Content Type: image/png
+
